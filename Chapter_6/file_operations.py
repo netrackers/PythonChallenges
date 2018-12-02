@@ -1,0 +1,1 @@
+customer_file = open( r'Chapter_6\Testingagain.txt', 'w')
