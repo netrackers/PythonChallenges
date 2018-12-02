@@ -1,2 +1,2 @@
 # PythonChallenges
-Labs from Beginning Python Programming 4th edition by Gaddis
+Labs from "Starting out with Python" by Tony Gaddis, 4th Edition
